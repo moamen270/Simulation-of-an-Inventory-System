@@ -1,0 +1,14 @@
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\bin\Debug\netcoreapp3.1\Simulation of an Inventory Problem.exe
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\bin\Debug\netcoreapp3.1\Simulation of an Inventory Problem.deps.json
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\bin\Debug\netcoreapp3.1\Simulation of an Inventory Problem.runtimeconfig.json
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\bin\Debug\netcoreapp3.1\Simulation of an Inventory Problem.runtimeconfig.dev.json
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\bin\Debug\netcoreapp3.1\Simulation of an Inventory Problem.dll
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\bin\Debug\netcoreapp3.1\Simulation of an Inventory Problem.pdb
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.csproj.AssemblyReference.cache
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.AssemblyInfoInputs.cache
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.AssemblyInfo.cs
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.csproj.CoreCompileInputs.cache
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.dll
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.pdb
+C:\Users\mmoam\Desktop\bhi\modeling\New folder\Simulation of an Inventory Problem\obj\Debug\netcoreapp3.1\Simulation of an Inventory Problem.genruntimeconfig.cache
